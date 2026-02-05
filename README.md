@@ -27,9 +27,13 @@ This project focuses on analyzing retail sales performance using the Superstore 
 ## Dashboard Features
 
 ✔ Sales Trend by Month
+
 ✔ Profit by Category
+
 ✔ Loss Making Sub-Category Analysis
+
 ✔ Region Interactive Slicer Filter
+
 ✔ Custom Dark Theme Dashboard Design
 
 ## Key Business Insights
@@ -44,7 +48,7 @@ This project focuses on analyzing retail sales performance using the Superstore 
 
 ## Dashboard Preview
 
-https://github.com/tesmy-poulose/powerbi-superstore-sales-dashboard/blob/main/Superstore_sales-data_screenshot.png?raw=true
+![Dashboard Preview](https://github.com/tesmy-poulose/powerbi-superstore-sales-dashboard/blob/main/Superstore_sales-data_screenshot.png?raw=true)
 
 ## Dataset
 
