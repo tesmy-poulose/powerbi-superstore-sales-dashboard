@@ -1,10 +1,10 @@
-Superstore Sales & Profit Dashboard (Power BI)
+# Superstore Sales & Profit Dashboard (Power BI)
 
-Project Overview
+## Project Overview
 
 This project focuses on analyzing retail sales performance using the Superstore dataset. The dashboard provides insights into monthly sales trends, category-level profitability, and identifies loss-making sub-categories to support business decision-making.
 
-Objective
+## Objective
 
 *Analyze sales performance over time
 
@@ -14,7 +14,7 @@ Objective
 
 *Enable region-based interactive filtering
 
-Tools & Technologies Used
+## Tools & Technologies Used
 
 *Power BI
 
@@ -24,7 +24,7 @@ Tools & Technologies Used
 
 *Data Cleaning & Transformation
 
-Dashboard Features
+## Dashboard Features
 
 ✔ Sales Trend by Month
 ✔ Profit by Category
@@ -32,7 +32,7 @@ Dashboard Features
 ✔ Region Interactive Slicer Filter
 ✔ Custom Dark Theme Dashboard Design
 
-Key Business Insights
+## Key Business Insights
 
 *Technology category generates highest profit
 
@@ -42,29 +42,36 @@ Key Business Insights
 
 *Tables and Bookcases identified as major loss-making sub-categories
 
-Dashboard Preview
+## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading image to GitHub)
+https://github.com/tesmy-poulose/powerbi-superstore-sales-dashboard/blob/main/Superstore_sales-data_screenshot.png?raw=true
 
-📂 Dataset
+## Dataset
 
 Superstore Sales Dataset (Sample Retail Dataset)
 
-🚀 Skills Demonstrated
+## Skills Demonstrated
 
-Data Visualization
+*Data Visualization
 
-Business Insight Generation
+*Business Insight Generation
 
-Dashboard Design
+*Dashboard Design
 
-Data Modeling
+*Data Modeling
 
-DAX Calculations
+*DAX Calculations
 
-Interactive Report Building
+*Interactive Report Building
 
-👩‍💻 Author
-
+## Author
 Tesmy Poulose
-Aspiring Data Analyst | Power BI | Excel | SQL | Google Data Analytics Certified
+
+Aspiring Data Analyst | Power BI | Excel | SQL | Google Data Analytics Certifiedring Data Analyst | Power BI | Excel | SQL | Google Data Analytics Certified
+
+
+
+
+
+
+
